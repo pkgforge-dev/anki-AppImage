@@ -17,7 +17,7 @@ export DEPLOY_VULKAN=1
 
 # Deploy dependencies
 # Qt libs have to be passed manually due to the app being a python script
-sh -x quick-sharun \
+./quick-sharun \
 	/usr/bin/anki*           \
 	/usr/lib/libQt6Core.so*  \
 	/usr/lib/libQt6Gui.so*   \
