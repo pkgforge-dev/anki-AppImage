@@ -15,6 +15,7 @@ export DEPLOY_QT_WEB_ENGINE=1
 export DEPLOY_QT=1
 export QT_DIR=qt6
 export DEPLOY_OPENGL=1
+export DEPLOY_VULKAN=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/anki*
