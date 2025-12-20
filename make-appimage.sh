@@ -20,6 +20,7 @@ export DEPLOY_VULKAN=1
 quick-sharun \
 	/usr/bin/anki*           \
 	/usr/lib/libQt6Core.so*  \
+	/usr/lib/libQt6Gui.so*   \
 	/usr/lib/libQt6Network.so*
 
 # Additional changes can be done in between here
