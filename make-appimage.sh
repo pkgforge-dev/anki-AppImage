@@ -12,13 +12,15 @@ export ICON=/usr/share/pixmaps/anki.png
 export DESKTOP=/usr/share/applications/anki.desktop
 export DEPLOY_SYS_PYTHON=1
 export DEPLOY_QT_WEB_ENGINE=1
-export DEPLOY_QT=1
-export QT_DIR=qt6
 export DEPLOY_OPENGL=1
 export DEPLOY_VULKAN=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/anki*
+# Qt libs have to be passed manually due to the app being a python script
+quick-sharun \
+	/usr/bin/anki*           \
+	/usr/lib/libQt6Core.so*  \
+	/usr/lib/libQt6Network.so*
 
 # Additional changes can be done in between here
 
