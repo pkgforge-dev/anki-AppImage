@@ -10,7 +10,7 @@ pacman -Syu --noconfirm anki
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
-get-debloated-pkgs --add-common --prefer-nano ! llvm-libs
+get-debloated-pkgs --add-common --prefer-nano ffmpeg-mini ! llvm-libs
 
 # Comment this out if you need an AUR package
 # make-aur-package anki
