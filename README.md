@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/anki-AppImage)](https://github.com/pkgforge-dev/anki-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankitects/anki/refs/heads/main/qt/launcher/lin/anki.png" width="128" />
+  <img src="https://raw.githubusercontent.com/ankitects/anki/refs/heads/main/qt/installer/app/resources/anki.png" width="128" />
 </p>
 
 
