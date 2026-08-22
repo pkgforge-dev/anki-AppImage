@@ -3,7 +3,7 @@
 # anki-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/anki-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/anki-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/anki-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/anki-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/anki-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/anki-AppImage/releases/latest)
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/anki-AppImage)](https://github.com/pkgforge-dev/anki-AppImage/releases/latest)
 
 <p align="center">
